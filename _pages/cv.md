@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+My comprehensive CV can be found [here](https://jeongwson.github.io/files/JeongwooSon_CV.pdf). 
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
