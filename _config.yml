@@ -26,9 +26,9 @@ author:
   avatar           : "손정우_zoomin.jpg"
   name             : "Jeongwoo Son"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student in Statistics"
+  bio              : "M.S. student in Statistics at Seoul National University"
   location         : 
-  employer         : "Seoul National University"
+  employer         : #"Seoul National University"
   uri              : # URL
   email            : "jwhand@snu.ac.kr" 
 
